@@ -43,7 +43,7 @@ const App = () => {
         {message}
       </div>
       <main style={{ textAlign: 'center', marginTop: '15vh', fontFamily: 'sans-serif' }}>
-        <h1 style={{ fontSize: '2em' }}>🚧 Le Club de la BD prépare son nouveau site !</h1>
+        <h1 style={{ fontSize: '2em' }}>🚧<br>Le Club de la BD<br>prépare son nouveau site !</h1>
         <p style={{ marginTop: '1em' }}>
           En attendant, retrouvez-nous sur Facebook ou contactez-nous par mail.<br />
           <a href="mailto:contact@clubdelabd.be">contact@clubdelabd.be</a><br />
