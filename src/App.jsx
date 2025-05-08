@@ -58,7 +58,18 @@ const App = () => {
           <a href="mailto:contact@clubdelabd.be">contact@clubdelabd.be</a><br />
           <a href="https://www.facebook.com/clubdelabd" target="_blank" rel="noopener noreferrer">Page Facebook</a>
         </p>
-      </main>
+      
+      <footer style={{
+        marginTop: '4rem',
+        fontSize: '0.8rem',
+        color: '#555',
+        fontFamily: 'DM Sans, sans-serif'
+      }}>
+        Rue Généraux Cuvelier, 14 - 6820 Florenville<br />
+        TVA BE0682.963.340
+      </footer>
+
+    </main>
     </div>
   );
 };
