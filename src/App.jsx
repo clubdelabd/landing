@@ -54,9 +54,10 @@ const App = () => {
           <span>prépare son nouveau site !</span>
         </h1>
         <p style={{ fontSize: '1.2rem', marginTop: '2rem' }}>
-          En attendant, retrouvez-nous sur Facebook ou contactez-nous par mail.<br />
+          En attendant, retrouvez-nous sur les réseaux ou contactez-nous par mail<br />
           <a href="mailto:contact@clubdelabd.be">contact@clubdelabd.be</a><br />
-          <a href="https://www.facebook.com/clubdelabd" target="_blank" rel="noopener noreferrer">Page Facebook</a>
+          <a href="https://www.facebook.com/clubdelabd" target="_blank" rel="noopener noreferrer">Facebook</a> / 
+          <a href="https://www.instagram.com/clubdelabd" target="_blank" rel="noopener noreferrer">Instagram</a>
         </p>
       
       <footer style={{
