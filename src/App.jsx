@@ -37,23 +37,14 @@ const App = () => {
         color: open ? '#155724' : '#721c24',
         padding: '10px',
         textAlign: 'center',
-        fontFamily: 'DM Sans, sans-serif',
-        fontWeight: 600
+        fontFamily: 'sans-serif',
+        fontWeight: 'bold'
       }}>
         {message}
       </div>
-      <main style={{ textAlign: 'center', marginTop: '10vh', fontFamily: 'DM Sans, sans-serif' }}>
-        <div style={{ display: 'flex', justifyContent: 'center', marginBottom: '1.5rem' }}>
-          <svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={1.5} d="M12 6v6l4 2" />
-            <circle cx="12" cy="12" r="9" stroke="currentColor" strokeWidth="1.5" fill="none" />
-          </svg>
-        </div>
-        <h1 style={{ fontSize: '2.2em', lineHeight: '1.4', textTransform: 'uppercase', letterSpacing: '0.05em' }}>
-          <span>Le Club de la BD</span><br />
-          <span>prépare son nouveau site !</span>
-        </h1>
-        <p style={{ fontSize: '1.2rem', marginTop: '2rem' }}>
+      <main style={{ textAlign: 'center', marginTop: '15vh', fontFamily: 'sans-serif' }}>
+        <h1 style={{ fontSize: '2em' }}>🚧 Le Club de la BD prépare son nouveau site !</h1>
+        <p style={{ marginTop: '1em' }}>
           En attendant, retrouvez-nous sur Facebook ou contactez-nous par mail.<br />
           <a href="mailto:contact@clubdelabd.be">contact@clubdelabd.be</a><br />
           <a href="https://www.facebook.com/clubdelabd" target="_blank" rel="noopener noreferrer">Page Facebook</a>
