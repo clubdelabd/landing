@@ -66,6 +66,7 @@ const App = () => {
         color: '#555',
         fontFamily: 'DM Sans, sans-serif'
       }}>
+        <a href="tel:+3261311066">061 31 10 66</a><br />
         Rue Généraux Cuvelier, 14 - 6820 Florenville<br />
         TVA BE0682.963.340
       </footer>
